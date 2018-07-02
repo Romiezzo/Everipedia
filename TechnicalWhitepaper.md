@@ -147,7 +147,7 @@ Staking IQ tokens is required to propose edits, vote on edits, and propose/vote 
 Example: A user has 150 IQ tokens. They can call the staking function to lock up their 150 IQ tokens for 21 days and get their account allocated 150 Brain Power to use for proposing edits, governance actions, and voting. 
 
 
-The second feature of the article module is usiing BP for token holder voting of inclusion or exclusion of proposed edits in queue. The validation of articles goes through a validation algorithm (below) with parameters that can be changed through a governance vote.
+The second feature of the article module is using BP for token holder voting of inclusion or exclusion of proposed edits in queue. The validation of articles goes through a validation algorithm (below) with parameters that can be changed through a governance vote.
 
   
 
